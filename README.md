@@ -1,0 +1,2 @@
+# arcaea-ptt_Enquirer
+用于arcaea私有目录的sqlite数据库查询并计算ptt
