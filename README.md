@@ -122,6 +122,7 @@ MANUAL_MAP = {
 0.0.1 初始版本，B50 + B10
 
 致谢
+
 由deepseek编写
 
 许可
