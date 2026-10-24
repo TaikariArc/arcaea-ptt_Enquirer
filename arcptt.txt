@@ -1,0 +1,140 @@
+arcaeaptt v0.0.3.1 for nuitka
+使用数据库: /data/data/moe.inf.arc/files/st3
+检测到版本: Arcaea Infinity (moe.inf.arc)
+定数表歌曲数: 550（有效规范化键 544）
+cleartypes 记录数: 52
+数据库记录数（去重后）: 52
+
+成功匹配定数的成绩数: 51
+未匹配歌曲: 1 条
+缺少难度定数: 0 条
+ct=0（TL）条数: 52
+其中通过 cleartypes 找回非 TL 的条数: 49
+回退匹配（BYD/ETR 混用）: 0 条
+
+匹配详情：
+  abstrusedilemma           -> Abstruse Dilemma                         | 难度 2 (Future) | 用键 "2" | 定数 11.3 | 分数 9619446 | Track Complete(bonus=0.2)
+  acidgod                   -> Acid God                                 | 难度 4 (Eternal) | 用键 "4" | 定数 10.9 | 分数 9692934 | Hard Clear(bonus=0.2)
+  aegleseeker               -> Aegleseeker                              | 难度 2 (Future) | 用键 "2" | 定数 11.2 | 分数 9749390 | Track Complete(bonus=0.2)
+  aethercrest               -> Aether Crest: Astral                     | 难度 4 (Eternal) | 用键 "4" | 定数 11.5 | 分数 9764701 | Easy Clear(bonus=0.2)
+  altergate                 -> AlterGate                                | 难度 2 (Future) | 用键 "2" | 定数 10.7 | 分数 9853895 | Easy Clear(bonus=0.2)
+  arcanaeden                -> Arcana Eden                              | 难度 3 (Beyond) | 用键 "3" | 定数 11.6 | 分数 9821441 | Easy Clear(bonus=0.2)
+  arghena                   -> Arghena                                  | 难度 2 (Future) | 用键 "2" | 定数 11.3 | 分数 9447177 | Track Lost(bonus=0.0)
+  axiumcrisis               -> Axium Crisis                             | 难度 3 (Beyond) | 用键 "3" | 定数 11.3 | 分数 9626865 | Easy Clear(bonus=0.2)
+  balor                     -> Balor                                    | 难度 4 (Eternal) | 用键 "4" | 定数 10.1 | 分数 9768123 | Hard Clear(bonus=0.2)
+  breachoffaith             -> Breach of Faith                          | 难度 3 (Beyond) | 用键 "3" | 定数 10.9 | 分数 9669748 | Track Complete(bonus=0.2)
+  buchigireberserker        -> BUCHiGiRE Berserker                      | 难度 2 (Future) | 用键 "2" | 定数 10.8 | 分数 9817026 | Hard Clear(bonus=0.2)
+  cataclysmcry              -> Cataclysm Cry                            | 难度 2 (Future) | 用键 "2" | 定数 10.6 | 分数 9666788 | Track Complete(bonus=0.2)
+  codeoblivion              -> Code: Oblivion                           | 难度 4 (Eternal) | 用键 "4" | 定数 10.9 | 分数 9874914 | Hard Clear(bonus=0.2)
+  cyaegha                   -> Cyaegha                                  | 难度 2 (Future) | 用键 "2" | 定数 10.7 | 分数 9807494 | Hard Clear(bonus=0.2)
+  deinosphainein            -> DEINOS PHAINEIN                          | 难度 2 (Future) | 用键 "2" | 定数 10.9 | 分数 9848062 | Hard Clear(bonus=0.2)
+  deinosphainein            -> DEINOS PHAINEIN                          | 难度 3 (Beyond) | 用键 "3" | 定数 12.0 | 分数 9124264 | Track Lost(bonus=0.0)
+  desive                    -> Désive                                   | 难度 4 (Eternal) | 用键 "4" | 定数 10.8 | 分数 9896744 | Track Complete(bonus=0.2)
+  diein                     -> DIE IN                                   | 难度 4 (Eternal) | 用键 "4" | 定数 11.1 | 分数 9790894 | Track Complete(bonus=0.2)
+  dontfightmusic            -> Don't Fight The Music                    | 难度 4 (Eternal) | 用键 "4" | 定数 10.7 | 分数 9889318 | Hard Clear(bonus=0.2)
+  dreadarea                 -> DREAD AREA                               | 难度 2 (Future) | 用键 "2" | 定数 10.3 | 分数 9908747 | Hard Clear(bonus=0.2)
+  dreadarea                 -> DREAD AREA                               | 难度 3 (Beyond) | 用键 "3" | 定数 11.4 | 分数 9676695 | Track Complete(bonus=0.2)
+  eightem                   -> 8-EM                                     | 难度 4 (Eternal) | 用键 "4" | 定数 10.3 | 分数 9909491 | Hard Clear(bonus=0.2)
+  einherjar                 -> Einherjar Joker                          | 难度 3 (Beyond) | 用键 "3" | 定数 10.9 | 分数 9896665 | Hard Clear(bonus=0.2)
+  extradimensional          -> Extradimensional Cosmic Phenomenon       | 难度 4 (Eternal) | 用键 "4" | 定数 11.3 | 分数 9856693 | Hard Clear(bonus=0.2)
+  fractureray               -> Fracture Ray                             | 难度 2 (Future) | 用键 "2" | 定数 11.1 | 分数 9840845 | Hard Clear(bonus=0.2)
+  grievouslady              -> Grievous Lady                            | 难度 2 (Future) | 用键 "2" | 定数 11.1 | 分数 9756433 | Easy Clear(bonus=0.2)
+  heavenlycaress            -> Heavenly caress                          | 难度 3 (Beyond) | 用键 "3" | 定数 10.9 | 分数 9917120 | Track Complete(bonus=0.2)
+  ifi                       -> 〇、                                       | 难度 2 (Future) | 用键 "2" | 定数 9.5 | 分数 9731670 | Hard Clear(bonus=0.2)
+  infinitestrife            -> Infinite Strife,                         | 难度 3 (Beyond) | 用键 "3" | 定数 10.9 | 分数 9725790 | Easy Clear(bonus=0.2)
+  lamia                     -> LAMIA                                    | 难度 2 (Future) | 用键 "2" | 定数 11.0 | 分数 9683454 | Easy Clear(bonus=0.2)
+  megalovaniarmx            -> MEGALOVANIA                              | 难度 4 (Eternal) | 用键 "4" | 定数 10.5 | 分数 9749219 | Easy Clear(bonus=0.2)
+  meltyrhapsody             -> Melty Rhapsody                           | 难度 4 (Eternal) | 用键 "4" | 定数 10.4 | 分数 9946241 | Track Complete(bonus=0.2)
+  metamysteria              -> Meta-Mysteria                            | 难度 2 (Future) | 用键 "2" | 定数 10.8 | 分数 9855998 | Easy Clear(bonus=0.2)
+  mvurbd                    -> MVURBD                                   | 难度 2 (Future) | 用键 "2" | 定数 10.6 | 分数 9901158 | Easy Clear(bonus=0.2)
+  nightmare                 -> Nightmare                                | 难度 4 (Eternal) | 用键 "4" | 定数 10.8 | 分数 9866598 | Hard Clear(bonus=0.2)
+  pentiment                 -> Pentiment                                | 难度 3 (Beyond) | 用键 "3" | 定数 11.5 | 分数 9605051 | Track Complete(bonus=0.2)
+  riotsystem                -> Riot in the System                       | 难度 4 (Eternal) | 用键 "4" | 定数 10.1 | 分数 9877533 | Hard Clear(bonus=0.2)
+  rivenpilgrim              -> Riven Pilgrimage                         | 难度 2 (Future) | 用键 "2" | 定数 10.4 | 分数 9805035 | Hard Clear(bonus=0.2)
+  rivenpilgrim              -> Riven Pilgrimage                         | 难度 3 (Beyond) | 用键 "3" | 定数 11.5 | 分数 9669527 | Easy Clear(bonus=0.2)
+  saikyostronger            -> SAIKYO STRONGER                          | 难度 2 (Future) | 用键 "2" | 定数 11.0 | 分数 9845864 | Hard Clear(bonus=0.2)
+  smallcloud                -> Small Cloud Sugar Candy                  | 难度 3 (Beyond) | 用键 "3" | 定数 10.3 | 分数 9638289 | Track Complete(bonus=0.2)
+  straightintolights        -> Straight into the lights                 | 难度 4 (Eternal) | 用键 "4" | 定数 10.5 | 分数 9891822 | Hard Clear(bonus=0.2)
+  tempestissimo             -> Tempestissimo                            | 难度 3 (Beyond) | 用键 "3" | 定数 11.7 | 分数 9631100 | Track Complete(bonus=0.2)
+  testify                   -> Testify                                  | 难度 2 (Future) | 用键 "2" | 定数 10.9 | 分数 9641922 | Easy Clear(bonus=0.2)
+  testify                   -> Testify                                  | 难度 3 (Beyond) | 用键 "3" | 定数 12.0 | 分数 9089958 | Track Lost(bonus=0.0)
+  un                        -> un                                       | 难度 4 (Eternal) | 用键 "4" | 定数 10.9 | 分数 9721828 | Track Complete(bonus=0.2)
+  vulcanus                  -> Vulcānus                                 | 难度 2 (Future) | 用键 "2" | 定数 10.9 | 分数 9897646 | Easy Clear(bonus=0.2)
+  welcomequeen              -> Welcome, Queen of Fiction.               | 难度 4 (Eternal) | 用键 "4" | 定数 10.9 | 分数 9803610 | Hard Clear(bonus=0.2)
+  wereallgonnadie           -> We're All Gonna Die                      | 难度 4 (Eternal) | 用键 "4" | 定数 10.9 | 分数 9768908 | Hard Clear(bonus=0.2)
+  worldender                -> World Ender                              | 难度 3 (Beyond) | 用键 "3" | 定数 11.1 | 分数 9823822 | Track Complete(bonus=0.2)
+  xtreme                    -> XTREME                                   | 难度 2 (Future) | 用键 "2" | 定数 10.5 | 分数 9909732 | Hard Clear(bonus=0.2)
+
+【歌曲未匹配】1 条：
+  songId=sacrosanct, difficulty=2, score=9474597
+
+============================================================
+总 PTT: 12.1311
+Best 50 数量: 50
+Best 10 数量: 10
+============================================================
+
+前 10 成绩：
+排名   PTT       定数     分数         通关               歌曲                                       难度
+1    12.9072   11.6   9821441    Easy Clear       Arcana Eden                              Beyond
+2    12.7835   11.3   9856693    Hard Clear       Extradimensional Cosmic Phenomenon       Eternal
+3    12.6856   10.9   9917120    Track Complete   Heavenly caress                          Beyond
+4    12.5882   10.9   9897646    Easy Clear       Vulcānus                                 Future
+5    12.5833   10.9   9896665    Hard Clear       Einherjar Joker                          Beyond
+6    12.5823   11.5   9764701    Easy Clear       Aether Crest: Astral                     Eternal
+7    12.5042   11.1   9840845    Hard Clear       Fracture Ray                             Future
+8    12.4837   10.8   9896744    Track Complete   Désive                                   Eternal
+9    12.4746   10.9   9874914    Hard Clear       Code: Oblivion                           Eternal
+10   12.4293   11.0   9845864    Hard Clear       SAIKYO STRONGER                          Future
+
+Best 50 列表：
+1   PTT: 12.9072 | 定数: 11.6 | 分数: 9821441 | 通关: Easy Clear | 歌曲: Arcana Eden | 难度: Beyond
+2   PTT: 12.7835 | 定数: 11.3 | 分数: 9856693 | 通关: Hard Clear | 歌曲: Extradimensional Cosmic Phenomenon | 难度: Eternal
+3   PTT: 12.6856 | 定数: 10.9 | 分数: 9917120 | 通关: Track Complete | 歌曲: Heavenly caress | 难度: Beyond
+4   PTT: 12.5882 | 定数: 10.9 | 分数: 9897646 | 通关: Easy Clear | 歌曲: Vulcānus | 难度: Future
+5   PTT: 12.5833 | 定数: 10.9 | 分数: 9896665 | 通关: Hard Clear | 歌曲: Einherjar Joker | 难度: Beyond
+6   PTT: 12.5823 | 定数: 11.5 | 分数: 9764701 | 通关: Easy Clear | 歌曲: Aether Crest: Astral | 难度: Eternal
+7   PTT: 12.5042 | 定数: 11.1 | 分数: 9840845 | 通关: Hard Clear | 歌曲: Fracture Ray | 难度: Future
+8   PTT: 12.4837 | 定数: 10.8 | 分数: 9896744 | 通关: Track Complete | 歌曲: Désive | 难度: Eternal
+9   PTT: 12.4746 | 定数: 10.9 | 分数: 9874914 | 通关: Hard Clear | 歌曲: Code: Oblivion | 难度: Eternal
+10  PTT: 12.4293 | 定数: 11.0 | 分数: 9845864 | 通关: Hard Clear | 歌曲: SAIKYO STRONGER | 难度: Future
+11  PTT: 12.4191 | 定数: 11.1 | 分数: 9823822 | 通关: Track Complete | 歌曲: World Ender | 难度: Beyond
+12  PTT: 12.3466 | 定数: 10.7 | 分数: 9889318 | 通关: Hard Clear | 歌曲: Don't Fight The Music | 难度: Eternal
+13  PTT: 12.3403 | 定数: 10.9 | 分数: 9848062 | 通关: Hard Clear | 歌曲: DEINOS PHAINEIN | 难度: Future
+14  PTT: 12.3370 | 定数: 11.7 | 分数: 9631100 | 通关: Track Complete | 歌曲: Tempestissimo | 难度: Beyond
+15  PTT: 12.3330 | 定数: 10.8 | 分数: 9866598 | 通关: Hard Clear | 歌曲: Nightmare | 难度: Eternal
+16  PTT: 12.3312 | 定数: 10.4 | 分数: 9946241 | 通关: Track Complete | 歌曲: Melty Rhapsody | 难度: Eternal
+17  PTT: 12.3058 | 定数: 10.6 | 分数: 9901158 | 通关: Easy Clear | 歌曲: MVURBD | 难度: Future
+18  PTT: 12.2800 | 定数: 10.8 | 分数: 9855998 | 通关: Easy Clear | 歌曲: Meta-Mysteria | 难度: Future
+19  PTT: 12.2696 | 定数: 11.1 | 分数: 9790894 | 通关: Track Complete | 歌曲: DIE IN | 难度: Eternal
+20  PTT: 12.2651 | 定数: 11.5 | 分数: 9669527 | 通关: Easy Clear | 歌曲: Riven Pilgrimage | 难度: Beyond
+21  PTT: 12.2487 | 定数: 10.5 | 分数: 9909732 | 通关: Hard Clear | 歌曲: XTREME | 难度: Future
+22  PTT: 12.2313 | 定数: 11.2 | 分数: 9749390 | 通关: Track Complete | 歌曲: Aegleseeker | 难度: Future
+23  PTT: 12.1890 | 定数: 11.4 | 分数: 9676695 | 通关: Track Complete | 歌曲: DREAD AREA | 难度: Beyond
+24  PTT: 12.1695 | 定数: 10.7 | 分数: 9853895 | 通关: Easy Clear | 歌曲: AlterGate | 难度: Future
+25  PTT: 12.1591 | 定数: 10.5 | 分数: 9891822 | 通关: Hard Clear | 歌曲: Straight into the lights | 难度: Eternal
+26  PTT: 12.1548 | 定数: 11.1 | 分数: 9756433 | 通关: Easy Clear | 歌曲: Grievous Lady | 难度: Future
+27  PTT: 12.1181 | 定数: 10.9 | 分数: 9803610 | 通关: Hard Clear | 歌曲: Welcome, Queen of Fiction. | 难度: Eternal
+28  PTT: 12.0851 | 定数: 10.8 | 分数: 9817026 | 通关: Hard Clear | 歌曲: BUCHiGiRE Berserker | 难度: Future
+29  PTT: 12.0502 | 定数: 11.5 | 分数: 9605051 | 通关: Track Complete | 歌曲: Pentiment | 难度: Beyond
+30  PTT: 12.0475 | 定数: 10.3 | 分数: 9909491 | 通关: Hard Clear | 歌曲: 8-EM | 难度: Eternal
+31  PTT: 12.0437 | 定数: 10.3 | 分数: 9908747 | 通关: Hard Clear | 歌曲: DREAD AREA | 难度: Future
+32  PTT: 11.9964 | 定数: 10.9 | 分数: 9768908 | 通关: Hard Clear | 歌曲: We're All Gonna Die | 难度: Eternal
+33  PTT: 11.9375 | 定数: 10.7 | 分数: 9807494 | 通关: Hard Clear | 歌曲: Cyaegha | 难度: Future
+34  PTT: 11.9229 | 定数: 11.3 | 分数: 9626865 | 通关: Easy Clear | 歌曲: Axium Crisis | 难度: Beyond
+35  PTT: 11.8982 | 定数: 11.3 | 分数: 9619446 | 通关: Track Complete | 歌曲: Abstruse Dilemma | 难度: Future
+36  PTT: 11.8526 | 定数: 10.9 | 分数: 9725790 | 通关: Easy Clear | 歌曲: Infinite Strife, | 难度: Beyond
+37  PTT: 11.8394 | 定数: 10.9 | 分数: 9721828 | 通关: Track Complete | 歌曲: un | 难度: Eternal
+38  PTT: 11.8115 | 定数: 11.0 | 分数: 9683454 | 通关: Easy Clear | 歌曲: LAMIA | 难度: Future
+39  PTT: 11.7431 | 定数: 10.9 | 分数: 9692934 | 通关: Hard Clear | 歌曲: Acid God | 难度: Eternal
+40  PTT: 11.6877 | 定数: 10.1 | 分数: 9877533 | 通关: Hard Clear | 歌曲: Riot in the System | 难度: Eternal
+41  PTT: 11.6658 | 定数: 10.9 | 分数: 9669748 | 通关: Track Complete | 歌曲: Breach of Faith | 难度: Beyond
+42  PTT: 11.6252 | 定数: 10.4 | 分数: 9805035 | 通关: Hard Clear | 歌曲: Riven Pilgrimage | 难度: Future
+43  PTT: 11.5731 | 定数: 10.9 | 分数: 9641922 | 通关: Easy Clear | 歌曲: Testify | 难度: Future
+44  PTT: 11.5307 | 定数: 10.5 | 分数: 9749219 | 通关: Easy Clear | 歌曲: MEGALOVANIA | 难度: Eternal
+45  PTT: 11.3560 | 定数: 10.6 | 分数: 9666788 | 通关: Track Complete | 歌曲: Cataclysm Cry | 难度: Future
+46  PTT: 11.1937 | 定数: 10.1 | 分数: 9768123 | 通关: Hard Clear | 歌曲: Balor | 难度: Eternal
+47  PTT: 11.1239 | 定数: 11.3 | 分数: 9447177 | 通关: Track Lost | 歌曲: Arghena | 难度: Future
+48  PTT: 10.9610 | 定数: 10.3 | 分数: 9638289 | 通关: Track Complete | 歌曲: Small Cloud Sugar Candy | 难度: Beyond
+49  PTT: 10.7475 | 定数: 12.0 | 分数: 9124264 | 通关: Track Lost | 歌曲: DEINOS PHAINEIN | 难度: Beyond
+50  PTT: 10.6332 | 定数: 12.0 | 分数: 9089958 | 通关: Track Lost | 歌曲: Testify | 难度: Beyond
